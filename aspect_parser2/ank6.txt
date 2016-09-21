@@ -1,0 +1,8 @@
+Key	frequency
+americans	1
+enron	1
+event	1
+lives	1
+samsung	1
+dealings	1
+bayarea	1
